@@ -1341,3 +1341,7 @@ td#sidebar
     display: inline-block;
     height: 16px;
 }
+
+.argument-info td {
+	white-space: pre;
+}
